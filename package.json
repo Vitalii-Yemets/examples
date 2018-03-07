@@ -1,0 +1,15 @@
+{
+    "name": "my-redux",
+    "version": "1.0.0",
+    "description": "Example with custom redux solution",
+    "main": "index.js",
+    "dependencies": {
+        "npm": "^5.7.1"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "test"
+    },
+    "author": "Vitalii.Yemets@outlook.com",
+    "license": "ISC"
+}
